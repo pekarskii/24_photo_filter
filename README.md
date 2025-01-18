@@ -23,7 +23,7 @@
 
 1. **Склонируйте репозиторий:**
    ```bash
-   git clone <git@github.com:pekarskii/24_photo_filter.git>
+   git clone git@github.com:pekarskii/24_photo_filter.git
    cd 24_photo_filter
    ```
 
